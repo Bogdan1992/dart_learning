@@ -2,7 +2,7 @@ void main(List<String> arguments) {
   var bob = <String>[
     "a",
     "b",
-    "k",
+    "u",
   ];
   print(longestConsec(bob, 2));
 }
